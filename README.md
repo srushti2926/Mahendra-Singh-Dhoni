@@ -32,6 +32,14 @@ p.oblique{font-style:oblique;}
 
   <p>Dhoni announced his retirement from international cricket on 15 August 2020.</p>
   
-  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P1H4YBBSDE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P1H4YBBSDE');
+</script>
   </body>
   </html>

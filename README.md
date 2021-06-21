@@ -1,8 +1,7 @@
 <html>
 <title>DHONI</title>
 <head>
-<link href="stylesheet.css"
-          rel="stylesheet"type="text/css">
+
 <body bgcolor="tan">
 </body>
 <style>
